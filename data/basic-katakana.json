@@ -1,0 +1,89 @@
+[
+  { "romaji": "a", "japanese": "ア" },
+  { "romaji": "i", "japanese": "イ" },
+  { "romaji": "u", "japanese": "ウ" },
+  { "romaji": "e", "japanese": "エ" },
+  { "romaji": "o", "japanese": "オ" },
+
+  { "romaji": "ka", "japanese": "カ" },
+  { "romaji": "ki", "japanese": "キ" },
+  { "romaji": "ku", "japanese": "ク" },
+  { "romaji": "ke", "japanese": "ケ" },
+  { "romaji": "ko", "japanese": "コ" },
+
+  { "romaji": "sa", "japanese": "サ" },
+  { "romaji": "shi", "japanese": "シ" },
+  { "romaji": "su", "japanese": "ス" },
+  { "romaji": "se", "japanese": "セ" },
+  { "romaji": "so", "japanese": "ソ" },
+
+  { "romaji": "ta", "japanese": "タ" },
+  { "romaji": "chi", "japanese": "チ" },
+  { "romaji": "tsu", "japanese": "ツ" },
+  { "romaji": "te", "japanese": "テ" },
+  { "romaji": "to", "japanese": "ト" },
+
+  { "romaji": "na", "japanese": "ナ" },
+  { "romaji": "ni", "japanese": "ニ" },
+  { "romaji": "nu", "japanese": "ヌ" },
+  { "romaji": "ne", "japanese": "ネ" },
+  { "romaji": "no", "japanese": "ノ" },
+
+  { "romaji": "ha", "japanese": "ハ" },
+  { "romaji": "hi", "japanese": "ヒ" },
+  { "romaji": "fu", "japanese": "フ" },
+  { "romaji": "he", "japanese": "ヘ" },
+  { "romaji": "ho", "japanese": "ホ" },
+
+  { "romaji": "ma", "japanese": "マ" },
+  { "romaji": "mi", "japanese": "ミ" },
+  { "romaji": "mu", "japanese": "ム" },
+  { "romaji": "me", "japanese": "メ" },
+  { "romaji": "mo", "japanese": "モ" },
+
+  { "romaji": "ya", "japanese": "ヤ" },
+  { "romaji": "yu", "japanese": "ユ" },
+  { "romaji": "yo", "japanese": "ヨ" },
+
+  { "romaji": "ra", "japanese": "ラ" },
+  { "romaji": "ri", "japanese": "リ" },
+  { "romaji": "ru", "japanese": "ル" },
+  { "romaji": "re", "japanese": "レ" },
+  { "romaji": "ro", "japanese": "ロ" },
+
+  { "romaji": "wa", "japanese": "ワ" },
+  { "romaji": "wo", "japanese": "ヲ" },
+
+  { "romaji": "n", "japanese": "ン" },
+
+  { "romaji": "ga", "japanese": "ガ" },
+  { "romaji": "gi", "japanese": "ギ" },
+  { "romaji": "gu", "japanese": "グ" },
+  { "romaji": "ge", "japanese": "ゲ" },
+  { "romaji": "go", "japanese": "ゴ" },
+
+  { "romaji": "za", "japanese": "ザ" },
+  { "romaji": "ji", "japanese": "ジ" },
+  { "romaji": "zu", "japanese": "ズ" },
+  { "romaji": "ze", "japanese": "ゼ" },
+  { "romaji": "zo", "japanese": "ゾ" },
+
+  { "romaji": "da", "japanese": "ダ" },
+  { "romaji": "di", "japanese": "ヂ" },
+  { "romaji": "du", "japanese": "ヅ" },
+  { "romaji": "de", "japanese": "デ" },
+  { "romaji": "do", "japanese": "ド" },
+
+  { "romaji": "ba", "japanese": "バ" },
+  { "romaji": "bi", "japanese": "ビ" },
+  { "romaji": "bu", "japanese": "ブ" },
+  { "romaji": "be", "japanese": "ベ" },
+  { "romaji": "bo", "japanese": "ボ" },
+
+  { "romaji": "pa", "japanese": "パ" },
+  { "romaji": "pi", "japanese": "ピ" },
+  { "romaji": "pu", "japanese": "プ" },
+  { "romaji": "pe", "japanese": "ペ" },
+  { "romaji": "po", "japanese": "ポ" }
+
+]

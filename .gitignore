@@ -1,0 +1,37 @@
+# =========================
+# Security & Credentials
+# =========================
+# Çevresel değişkenler ve veritabanı URL'leri
+.env
+
+# Firebase yetkilendirme dosyası (ASLA GİT'E EKLENMEMELİ!)
+data/firebase-credentials.json
+
+# =========================
+# Python & FastAPI
+# =========================
+# Derlenmiş Python dosyaları (Görseldeki __pycache__ klasörleri)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal Ortamlar (Virtual Environments)
+venv/
+.venv/
+env/
+.env_venv/
+
+# Test ve Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# IDE & OS Files
+# =========================
+# VS Code ayarları
+.vscode/
+
+# Mac / Windows sistem dosyaları
+.DS_Store
+Thumbs.db
